@@ -1,1 +1,2 @@
-He pickes up a sword.
+You picked up a pink sword.
+
